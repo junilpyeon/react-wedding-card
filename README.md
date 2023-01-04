@@ -19,6 +19,13 @@
 ## 📌 작업전 환경세팅
 
 1. NodeJs 설치 : https://nodejs.org/en/
+2. NodeJs 설치 에러 발생시 : https://velog.io/@gombobbaeng/Node.js-%EC%84%A4%EC%B9%98-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95%EC%97%90%EB%9F%AC-%EC%BD%94%EB%93%9C-2503-2502
+3. cmd창에서 node 버전 확인 : node -v 
+4. yarn 설치 : npm install -g yarn
+5. yarn 버전 확인 : yarn -v
+6. swiper 패키지 설치 : yarn add swiper
+7. 서버 실행 : yarn start
+8. Github 무료 호스팅 : https://medium.com/@mr.november11/github-pages%EB%A1%9C-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%AC%B4%EB%A3%8C-%ED%98%B8%EC%8A%A4%ED%8C%85%ED%95%98%EA%B8%B0-c547b85667a6
 
 ## 📌 Working issue
 
