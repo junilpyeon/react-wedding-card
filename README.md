@@ -1,4 +1,4 @@
-# 🤵🏻 Wedding-Card 👰🏻‍♀️
+# 🤵🏻 Event or Wedding Card 👰🏻‍♀
 
 ## 📌 Description
 
@@ -27,6 +27,9 @@
 7. 서버 실행 : yarn start
 8. Github 무료 호스팅 : https://medium.com/@mr.november11/github-pages%EB%A1%9C-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%AC%B4%EB%A3%8C-%ED%98%B8%EC%8A%A4%ED%8C%85%ED%95%98%EA%B8%B0-c547b85667a6
 9. Github Page Url : https://[user name].github.io/[repo name]/
+
+## 📌 주로 변경될 소스
+
 
 ## 📌 Working issue
 
