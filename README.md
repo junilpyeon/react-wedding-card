@@ -2,11 +2,7 @@
 
 ## 📌 Description
 
-<img width="192" alt="스크린샷 2021-07-03 오후 5 13 43" src="https://user-images.githubusercontent.com/58814562/124347925-096bf180-dc22-11eb-8d39-035158b47189.png"><br />
-[구경오세요!🤗](https://doristagram.herokuapp.com/)<br />
-친한친구의 결혼식을 앞두고, 개발자를 준비하는 사람으로서 할 수 있는 일을 하고자 시작한 프로젝트입니다.<br />
-기존 모바일청첩장에 지루함이 느껴져서, 인스타그램를 즐겨하는 친구를 위해<br />
-**인스타그램 스타일로 만든 모바일 청첩장**입니다.
+청첩장 타입의 react 웹 개발 과정입니다!
 
 ---
 
@@ -20,14 +16,9 @@
 - sass
 - styled-components
 
-## 📌 Work Process
+## 📌 작업전 환경세팅
 
-프론트앤드 작업 대부분을 혼자 하는 프로젝트였지만<br />
-최대한 실무에서 작업하는 것 처럼 진행해보려고 노력했습니다.<br />
-
-- github의 `Project` 기능을 통해 이슈관리, 작업일정 관리를 해보며 시행착오를 경험했습니다.
-- master 브랜치에서만 작업하는 것이 아닌, `branch를 나누어 작업`하였습니다.
-- 백앤드 작업을 도와준 ethan과 `코드리뷰` 과정을 거쳤습니다.
+1. NodeJs 설치 : https://nodejs.org/en/
 
 ## 📌 Working issue
 
